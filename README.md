@@ -3,7 +3,7 @@
 ## Описание
 
 **BetterRest** — это приложение, которое помогает пользователям отслеживать время, когда они ложатся спать, чтобы обеспечить качественный отдых. Приложение учитывает количество чашек кофе, выпитых в течение дня, и использует алгоритмы машинного обучения для предоставления персонализированных рекомендаций по оптимальному времени сна.
-<img src="BetterRestAssets.xcassets/BetterRest.png" alt="Simulator Screenshot - iPhone 16 Pro" width="300" />
+<img src="BetterRest/Assets.xcassets/BetterRest.png" alt="Simulator Screenshot - iPhone 16 Pro" width="300" />
 
 ### Основные функции
 
